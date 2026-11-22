@@ -1,0 +1,9 @@
+{
+  "pluginId": "neodex.decortrounoir",
+  "repo": "NDesumeur/neodex-plugin-decor-trounoir",
+  "version": "1.0.0",
+  "sha256": "766e04979b72647b995e900bb081d12496c1ff7d118cace2c2d1d511088782f8",
+  "approvedAt": "2026-11-22T19:05:25.787Z",
+  "neobase": ">=4.1.0",
+  "signature": "8Nfm9iHe4Om1ATGQv+pv2EPOMSnkWG43rUfHTlqv+FLI3nvekiQ3aDeUGI3hiwsS18i2+2B3TVI67bNkt84gCQ=="
+}
